@@ -20,6 +20,8 @@ export default defineNuxtConfig({
     }
   },
 
+  ssr: false,
+
   primevue: {
     importTheme: {from: '~/themes/theme.js'}
 },
