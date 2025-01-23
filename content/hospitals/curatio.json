@@ -1,0 +1,12 @@
+{
+    "name": {
+        "ka": "კურაციო",
+        "en": "Curatio"
+    },
+    "address": {
+        "ka": "თბილისი, სამართლის ქუჩა 1",
+        "en": "Tbilisi, Samsari Street 1"
+    },
+    "city": "Tbilisi",
+    "icon": "/images/curatio.png"
+}

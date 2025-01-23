@@ -1,0 +1,42 @@
+{
+    "name": {
+        "ka": "ნინო მამულაშვილი",
+        "en": "Nino Mamulashvili"
+    },
+    "type": "specialist",
+    "speciality": {
+        "ka": "პედიატრი",
+        "en": "Pediatrician"
+    },
+    "avatar": "/images/mamulashvili.png",
+    "workingHours": [
+        "2025-01-23T08:00:00Z", "2025-01-23T09:00:00Z", "2025-01-23T10:00:00Z", "2025-01-23T11:00:00Z",
+        "2025-01-24T08:00:00Z", "2025-01-24T09:00:00Z", "2025-01-24T10:00:00Z", "2025-01-24T11:00:00Z",
+        "2025-01-27T08:00:00Z", "2025-01-27T09:00:00Z", "2025-01-27T10:00:00Z", "2025-01-27T11:00:00Z",
+        "2025-01-28T08:00:00Z", "2025-01-28T09:00:00Z", "2025-01-28T10:00:00Z", "2025-01-28T11:00:00Z",
+        "2025-01-29T08:00:00Z", "2025-01-29T09:00:00Z", "2025-01-29T10:00:00Z", "2025-01-29T11:00:00Z",
+        "2025-01-31T08:00:00Z", "2025-01-31T09:00:00Z", "2025-01-31T10:00:00Z", "2025-01-31T11:00:00Z",
+        "2025-02-21T08:00:00Z", "2025-02-21T09:00:00Z", "2025-02-21T10:00:00Z", "2025-02-21T11:00:00Z"
+    ],
+    "bookedSlots": [
+        "2025-02-10T08:00:00Z",
+        "2025-02-17T09:00:00Z",
+        "2025-02-20T10:00:00Z"
+    ],
+    "hospital": {
+        "name": {
+            "ka": "სს 'ევექსის ჰოსპიტლები' - მ.იაშვილის სახელობის ბავშვთა ცენტრალური საავადმოფო",
+            "en": "SS 'Evex Hospitals' - M.Iashvili Named Children's Central Hospital"
+        },
+        "address": {
+            "ka": "ოთარ ლორთქიფანიძის #31",
+            "en": "Otal Lortkifanidze Street #31"
+        },
+        "city": "Tbilisi",
+        "icon": "/images/evex.jpg"
+    },
+    "description": {
+        "ka": "გამოცდილი პედიატრი 12 წლიანი პრაქტიკით. სპეციალიზირებულია ბავშვთა განვითარების მონიტორინგში და პედიატრიულ გადაუდებელ დახმარებაში. აქტიურად თანამშრომლობს საერთაშორისო პედიატრიულ ორგანიზაციებთან და არის რამდენიმე სამეცნიერო პუბლიკაციის ავტორი ბავშვთა ჯანმრთელობის საკითხებზე. განსაკუთრებული გამოცდილება აქვს ალერგიული დაავადებების მართვაში.",
+        "en": "Experienced pediatrician with 12 years of practice. Specializes in child development monitoring and pediatric emergency care. Actively collaborates with international pediatric organizations and has authored several scientific publications on children's health issues. Has particular expertise in managing allergic conditions."
+    }
+} 

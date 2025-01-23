@@ -1,0 +1,41 @@
+{
+    "name": {
+        "ka": "დავით ჯავახიშვილი",
+        "en": "David Javakhishvili"
+    },
+    "type": "examiner",
+    "description": {
+        "ka": "გამოცდილი რადიოლოგი 15 წლიანი პრაქტიკით მაგნიტურ-რეზონანსულ დიაგნოსტიკაში. სპეციალიზირებულია ნევროლოგიურ და ორთოპედიულ კვლევებში. მიღებული აქვს განათლება ევროპის წამყვან კლინიკებში და რეგულარულად ესწრება საერთაშორისო კონფერენციებს. განსაკუთრებული გამოცდილება აქვს სპორტული ტრავმების და ონკოლოგიური დაავადებების დიაგნოსტიკაში.",
+        "en": "Experienced radiologist with 15 years of practice in MRI diagnostics. Specializes in neurological and orthopedic imaging. Educated in leading European clinics and regularly attends international conferences. Has particular expertise in sports injury and oncological disease diagnostics."
+    },
+    "exam": {
+        "ka": "მაგნიტურ-რეზონანსული ტომოგრაფია",
+        "en": "MRI"
+    },
+    "avatar": "/images/javakhishvili.png",
+    "workingHours": [
+        "2025-01-23T11:00:00Z", "2025-01-23T12:00:00Z", "2025-01-23T13:00:00Z", "2025-01-23T14:00:00Z",
+        "2025-01-24T11:00:00Z", "2025-01-24T12:00:00Z", "2025-01-24T13:00:00Z", "2025-01-24T14:00:00Z",
+        "2025-01-27T11:00:00Z", "2025-01-27T12:00:00Z", "2025-01-27T13:00:00Z", "2025-01-27T14:00:00Z",
+        "2025-01-28T11:00:00Z", "2025-01-28T12:00:00Z", "2025-01-28T13:00:00Z", "2025-01-28T14:00:00Z",
+        "2025-01-29T11:00:00Z", "2025-01-29T12:00:00Z", "2025-01-29T13:00:00Z", "2025-01-29T14:00:00Z",
+        "2025-01-31T11:00:00Z", "2025-01-31T12:00:00Z", "2025-01-31T13:00:00Z", "2025-01-31T14:00:00Z",
+        "2025-02-21T11:00:00Z", "2025-02-21T12:00:00Z", "2025-02-21T13:00:00Z", "2025-02-21T14:00:00Z"
+    ],
+    "bookedSlots": [
+        "2025-02-17T12:00:00Z",
+        "2025-02-20T11:00:00Z"
+    ],
+    "hospital": {
+        "name": {
+            "ka": "ინგოროყვას საუნივერსიტეტო კლინიკა",
+            "en": "Ingorokva University Clinic"
+        },
+        "address": {
+            "ka": "წინანდლის ქუჩა N9",
+            "en": "Tsinandali Street N9"
+        },
+        "city": "Tbilisi",
+        "icon": "/images/ingoroyva.png"
+    }
+} 

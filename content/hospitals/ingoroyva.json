@@ -1,0 +1,12 @@
+{
+    "name": {
+        "ka": "ინგოროყვას საუნივერსიტეტო კლინიკა",
+        "en": "Ingorokva University Clinic"
+    },
+    "address": {
+        "ka": "წინანდლის ქუჩა N9",
+        "en": "Tsinandali Street N9"
+    },
+    "city": "Tbilisi",
+    "icon": "/images/ingoroyva.png"
+}
